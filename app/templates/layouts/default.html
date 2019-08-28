@@ -1,27 +1,23 @@
 <!DOCTYPE HTML>
-<!--
-	Indivisible by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
--->
-<html>
 
-    {% include 'includes/header.html' %}
+<html lang="en">
 
-	<body class="is-preload-0 is-preload-1">
+{% include 'includes/header.html' %}
 
-		<!-- Wrapper -->
-		<div id="wrapper">
+<body class="is-preload-0 is-preload-1">
 
-			{{ content | safe }}
+<!-- Wrapper -->
+<div id="wrapper">
 
-			<!-- Footer -->
-			{% include 'includes/footer.html' %}
+    {{ content | safe }}
 
-		</div>
+    <!-- Footer -->
+    {% include 'includes/footer.html' %}
 
-		<!-- Scripts -->
-        {% include 'includes/scripts.html' %}
+</div>
 
-	</body>
+<!-- Scripts -->
+{% include 'includes/scripts.html' %}
+
+</body>
 </html>

@@ -6,26 +6,39 @@ Read more at https://appseed.us/pricing
 Copyright (c) 2019 - present AppSeed.us
 """
 
-# Resources used 
+jason = {
+    "copy": "EL Omari",
+    "email": "mohamed.elomari@outlook.com",
+    "design": "Mohamed El Omari",
+
+    "links": {
+        "github": "https://github.com/Med-ELOMARI",
+        "blog": "#",
+        "facebook": "https://facebook.com/med.e6",
+        "instagram": "https://instagram.com/mohamed_el_0mari",
+        "linkedin": "https://www.linkedin.com/in/elomarimohamed"
+    },
+
+    "LAST_KEY": "NA"
+}
+
+
+# Resources used
 class Data:
+    copy = 'EL Omari'
 
-    copy       = 'AppSeed'
+    email = 'mohamed.elomari@outlook.com'
+    design = 'with <3 By me'
 
-    email      =  'support@appseed.us'
-    design     =  'Indivisible by Pixelarity'
-    
-    seo_title  = 'Flask App - Indivisible design by Pixelarity | AppSeed'
-    seo_desc   = 'Flask app with Indivisible design crafted by top Pixelarity'
-    seo_keys   = 'jamstack, indivisible, html5 up, pixelarity, appseed'
+    seo_title = 'Portfolio | Mohamed El Omari'
+    seo_desc = 'Portfolio made with Flask and <3'
+    seo_keys = 'Mohamed, EL omari'
 
-    product    = 'https://appseed.us/apps/flask-apps/flask-indivisible-pixelarity' 
-    github     = 'https://github.com/app-generator/priv-flask-indivisible'
-    docs       = 'https://docs.appseed.us/apps/flask-apps/flask-indivisible-pixelarity/'
-    appseed    = 'https://appseed.us'      
-    generator  = 'https://appseed.us/app-generator'
-    blog       = 'https://blog.appseed.us/'
-    facebook   = 'https://facebook.com/webappseed'
-    twitter    = 'https://twitter.com/webappseed'
-    instagram  = 'https://instagram.com/webappseed'
-    support    = 'https://appseed.us/support'
-    discord    = 'https://discord.gg/fZC6hup'
+    product = '#'
+    github = 'https://github.com/Med-ELOMARI'
+    docs = '#'
+    blog = '#'
+    facebook = 'https://facebook.com/med.e6'
+    twitter = 'https://twitter.com/webappseed'
+    instagram = 'https://instagram.com/mohamed_el_0mari'
+    linkedin = 'https://www.linkedin.com/in/elomarimohamed'

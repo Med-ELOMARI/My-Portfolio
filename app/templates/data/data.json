@@ -1,21 +1,15 @@
 {
-    "copy"    : "AppSeed", 
-    "email"   : "support@appseed.us",
-    "design"  : "Indivisible by Pixelarity",
+    "copy"    : "EL Omari",
+    "email"   : "mohamed.elomari@outlook.com",
+    "design"  : "Mohamed El Omari",
 
     "links" : {
-        "product"        : "https://appseed.us/apps/jamstack/jamstack-indivisible-pixelarity", 
-        "github"         : "https://github.com/app-generator/priv-jamstack-indivisible",
-        "docs"           : "https://docs.appseed.us/apps/jamstack/jamstack-indivisible-pixelarity/",
-        "appseed"        : "https://appseed.us",      
-        "generator"      : "https://appseed.us/app-generator",
-        "blog"           : "https://blog.appseed.us/",
-        "facebook"       : "https://facebook.com/webappseed",
-        "twitter"        : "https://twitter.com/webappseed",
-        "instagram"      : "https://instagram.com/webappseed",
-        "support"        : "https://appseed.us/support",
-        "discord"        : "https://discord.gg/fZC6hup"
-    }, 
+        "github"         : "https://github.com/Med-ELOMARI",
+        "blog"           : "#",
+        "facebook"       : "https://facebook.com/med.e6",
+        "instagram"      : "https://instagram.com/mohamed_el_0mari",
+        "linkedin"      : "https://www.linkedin.com/in/elomarimohamed"
+    },
 
     "LAST_KEY" : "NA"
 }
