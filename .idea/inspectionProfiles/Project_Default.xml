@@ -17,7 +17,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="15">
+          <list size="16">
             <item index="0" class="java.lang.String" itemvalue="Flask-Script" />
             <item index="1" class="java.lang.String" itemvalue="Flask-JWT" />
             <item index="2" class="java.lang.String" itemvalue="Flask-WTF" />
@@ -33,6 +33,7 @@
             <item index="12" class="java.lang.String" itemvalue="fabric" />
             <item index="13" class="java.lang.String" itemvalue="Flask-Bcrypt" />
             <item index="14" class="java.lang.String" itemvalue="Frozen-Flask" />
+            <item index="15" class="java.lang.String" itemvalue="Werkzeug1" />
           </list>
         </value>
       </option>
