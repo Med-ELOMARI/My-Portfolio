@@ -32,6 +32,7 @@ class ProductionConfig(Config):
     RECAPTCHA_PUBLIC_KEY = "1234_abcd"
     RECAPTCHA_PRIVATE_KEY = "1234_xyzw"
 
+    # SERVER_NAME   = 'elomari.netlify.com'
     DEBUG = False
     TESTING = False
 
@@ -44,6 +45,7 @@ class DevelopmentConfig(Config):
     RECAPTCHA_PUBLIC_KEY = "1234_abcd"
     RECAPTCHA_PRIVATE_KEY = "1234_xyzw"
 
+    # SERVER_NAME   = 'elomari.netlify.com'
     DEBUG = False
     TESTING = False
     FORCE_HTTPS = False
