@@ -2,8 +2,8 @@ certifi
 Click
 Flask
 Frozen-Flask
-Flask-Bootstrap
 itsdangerous
+Flask-Bootstrap
 Jinja2
 MarkupSafe
 mysqlclient
