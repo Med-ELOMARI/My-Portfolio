@@ -6,6 +6,5 @@ itsdangerous
 Flask-Bootstrap
 Jinja2
 MarkupSafe
-MySQL-Python
 Werkzeug
 wincertstore
