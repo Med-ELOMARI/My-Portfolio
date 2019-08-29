@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0aebcd4-30a8-4591-b2e6-ca9e9e6c473c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/runtime.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -195,7 +194,7 @@
       <updated>1567011355080</updated>
       <workItem from="1567011376595" duration="89000" />
       <workItem from="1567012320646" duration="2517000" />
-      <workItem from="1567074415852" duration="2070000" />
+      <workItem from="1567074415852" duration="2654000" />
     </task>
     <task id="LOCAL-00001" summary="first upload">
       <created>1567013322606</created>
@@ -246,22 +245,50 @@
       <option name="project" value="LOCAL" />
       <updated>1567076311102</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added python Version for netlify">
+      <created>1567076515931</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567076515931</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added python Version for netlify">
+      <created>1567076622317</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1567076622317</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added python Version for netlify">
+      <created>1567076675109</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1567076675109</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added python Version for netlify">
+      <created>1567076896900</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1567076896900</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4676000" />
+    <option name="totallyTimeSpent" value="5260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -314,7 +341,8 @@
     <MESSAGE value="first upload" />
     <MESSAGE value="Minimum portfolio" />
     <MESSAGE value="requirement update" />
-    <option name="LAST_COMMIT_MESSAGE" value="requirement update" />
+    <MESSAGE value="Added python Version for netlify" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added python Version for netlify" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/build/index.html">
@@ -456,7 +484,7 @@
     <entry file="file://$PROJECT_DIR$/runtime.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
