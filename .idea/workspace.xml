@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0aebcd4-30a8-4591-b2e6-ca9e9e6c473c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/images/pic03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/images/pic04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/images/pic04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/includes/section-contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/includes/section-contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/includes/section-experiences.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/includes/section-experiences.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/includes/section-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/includes/section-home.html" afterDir="false" />
-    </list>
+    <list default="true" id="d0aebcd4-30a8-4591-b2e6-ca9e9e6c473c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +58,7 @@
     <findStrings>
       <find>==.....</find>
       <find>==(.*)</find>
+      <find>button</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,6 +109,24 @@
             <path>
               <item name="My-Portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="My-Portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My-Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="My-Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My-Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="My-Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My-Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="My-Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,7 +275,7 @@
       <workItem from="1567011376595" duration="89000" />
       <workItem from="1567012320646" duration="2517000" />
       <workItem from="1567074415852" duration="7489000" />
-      <workItem from="1567082108823" duration="4653000" />
+      <workItem from="1567082108823" duration="5032000" />
     </task>
     <task id="LOCAL-00001" summary="first upload">
       <created>1567013322606</created>
@@ -378,22 +389,28 @@
       <option name="project" value="LOCAL" />
       <updated>1567082660887</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="major updates">
+      <created>1567086845423</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1567086845423</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14748000" />
+    <option name="totallyTimeSpent" value="15127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -475,7 +492,8 @@
     <MESSAGE value="requirement update" />
     <MESSAGE value="fixed Freezer generator" />
     <MESSAGE value="major upadates" />
-    <option name="LAST_COMMIT_MESSAGE" value="major upadates" />
+    <MESSAGE value="major updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="major updates" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/build/index.html">
