@@ -18,7 +18,8 @@ from app import app
 @app.route('/<path>')
 def index(path):
     try:
-
+        print("index")
+        print(app.url_map)
         # try to match the pages defined in -> themes/phantom/pages/
         return render_template('layouts/default.html',
                                content=render_template('pages/' + path))

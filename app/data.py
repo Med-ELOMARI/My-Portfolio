@@ -16,6 +16,7 @@ class Data:
     github = 'https://github.com/Med-ELOMARI'
     docs = '#'
     blog = '#'
+    phone = '+34602396789'
     facebook = 'https://facebook.com/med.e6'
     twitter = 'https://twitter.com/webappseed'
     instagram = 'https://instagram.com/mohamed_el_0mari'

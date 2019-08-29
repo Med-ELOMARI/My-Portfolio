@@ -9,12 +9,11 @@ freezer = Freezer(app)
 
 @freezer.register_generator
 def index():
-    # Not needed if you set SITEMAP_INCLUDE_RULES_WITHOUT_PARAMS=True
+    # fixed the index not found by the freezer
     yield 'index', {}
 
 
 if __name__ == "__main__":
-
-    for i in freezer.freeze_yield():
-        print(i)
+    # for i in freezer.freeze_yield():
+    #     print(i)
     freezer.freeze()
