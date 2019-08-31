@@ -6,23 +6,34 @@ Read more at https://appseed.us/pricing
 Copyright (c) 2019 - present AppSeed.us
 """
 
-from flask import render_template
+from flask import render_template, Blueprint
 # all the imports necessary
 from werkzeug.exceptions import abort
 
-from app import app
+blog_blueprint = Blueprint("blog_blueprint", __name__, static_folder='static',
+                           template_folder="templates",url_prefix="/blog")
 
 
-# App main route + generic routing
-@app.route('/', defaults={'path': 'index.html'})
-@app.route('/<path>')
+# # blog_blueprint main route + generic routing
+# @blog_blueprint.route('/')
+# def single():
+#     try:
+#         # try to match the pages defined in -> themes/phantom/pages/
+#         return render_template('single.html',
+#                                # content=render_template('pages/' + path)
+#                                )
+#     except:
+#         abort(404)
+
+# blog_blueprint main route + generic routing
+@blog_blueprint.route('/', defaults={'path': 'index.html'})
+@blog_blueprint.route('/<path>')
 def index(path):
     try:
-        print("index")
-        print(app.url_map)
         # try to match the pages defined in -> themes/phantom/pages/
-        return render_template('layouts/default.html',
-                               content=render_template('pages/' + path))
+        return render_template('index.html',
+                               # content=render_template('pages/' + path)
+                               )
     except:
         abort(404)
 
@@ -46,27 +57,27 @@ def http_err(err_code):
     return err_msg
 
 
-@app.errorhandler(401)
+@blog_blueprint.errorhandler(401)
 def e401(e):
     return http_err(401)  # "It seems like you are not allowed to access this link."
 
 
-@app.errorhandler(404)
+@blog_blueprint.errorhandler(404)
 def e404(e):
     return http_err(404)  # "The URL you were looking for does not seem to exist.<br><br>
     # If you have typed the link manually, make sure you've spelled the link right."
 
 
-@app.errorhandler(500)
+@blog_blueprint.errorhandler(500)
 def e500(e):
     return http_err(500)  # "Internal error. Contact the manager about this."
 
 
-@app.errorhandler(403)
+@blog_blueprint.errorhandler(403)
 def e403(e):
     return http_err(403)  # "Forbidden access."
 
 
-@app.errorhandler(410)
+@blog_blueprint.errorhandler(410)
 def e410(e):
     return http_err(410)  # "The content you were looking for has been deleted."
