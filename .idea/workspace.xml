@@ -2,87 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0aebcd4-30a8-4591-b2e6-ca9e9e6c473c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/blog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/blog/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/blog/templates/content.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/blog/templates/headers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/blog/templates/javascripts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/priv-flask-indivisible.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/priv-flask-indivisible.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/configuration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/css/fontawesome-all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/css/fontawesome-all.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/css/noscript.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/js/breakpoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/js/breakpoints.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/js/browser.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/js/browser.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/js/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/base/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/base/_page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/base/_reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/components/_actions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/components/_actions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/components/_box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/components/_box.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/components/_button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/components/_form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/components/_icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/components/_icon.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/components/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/components/_icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/components/_image.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/components/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/components/_list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/components/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/components/_section.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/components/_table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/components/_table.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/layout/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/layout/_panel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/layout/_panel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/layout/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/layout/_wrapper.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/libs/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/libs/_breakpoints.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/libs/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/libs/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/libs/_vars.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/libs/_vendor.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/libs/_vendor.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/sass/noscript.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/sass/noscript.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/assets/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/images/pic01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/images/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/images/pic02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/images/pic03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/images/pic04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/images/pic04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/images/pic05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/images/pic05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/data/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/templates/includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/templates/includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/templates/includes/scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/includes/section-about.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/templates/includes/section-about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/includes/section-contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/templates/includes/section-contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/includes/section-experiences.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/templates/includes/section-experiences.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/includes/section-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/templates/includes/section-home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/includes/section-projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/templates/includes/section-projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/templates/layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/templates/pages/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeze.py" beforeDir="false" afterPath="$PROJECT_DIR$/freeze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/includes/section-about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/app/static/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/static/images/pic03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/app/templates/includes/section-about.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/app/templates/includes/section-about.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/My_Portfolio$app.coverage" NAME="app Coverage Results" MODIFIED="1567268166613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/My_Portfolio$app.coverage" NAME="app Coverage Results" MODIFIED="1567689834542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/My_Portfolio$configuration.coverage" NAME="configuration Coverage Results" MODIFIED="1567077691616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
     <SUITE FILE_PATH="coverage/My_Portfolio$freeze.coverage" NAME="freeze Coverage Results" MODIFIED="1567268534724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/My_Portfolio$static.coverage" NAME="static Coverage Results" MODIFIED="1567014357826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -102,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/portfolio/blog/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -110,11 +33,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
               <folding>
                 <element signature="e#27#36#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/app/templates/includes/section-about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -275,48 +207,6 @@
               <item name="My-Portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="My-Portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My-Portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="My-Portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My-Portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="My-Portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My-Portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="My-Portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My-Portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="My-Portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My-Portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="My-Portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My-Portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -331,14 +221,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Venus\Documents\GitHub\My-Portfolio\portfolio" />
-      <recent name="C:\Users\Venus\Documents\GitHub\My-Portfolio\portfolio\blog\templates" />
-      <recent name="C:\Users\Venus\Documents\GitHub\My-Portfolio\portfolio\blog\static" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Venus\Documents\GitHub\My-Portfolio\portfolio" />
       <recent name="C:\Users\Venus\Documents\GitHub\My_Portfolio\priv-flask-indivisible\My-Portfolio\app\templates\includes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Venus\Documents\GitHub\My-Portfolio\portfolio\app\templates\includes" />
+      <recent name="C:\Users\Venus\Documents\GitHub\My-Portfolio\portfolio" />
+      <recent name="C:\Users\Venus\Documents\GitHub\My-Portfolio\portfolio\blog\templates" />
+      <recent name="C:\Users\Venus\Documents\GitHub\My-Portfolio\portfolio\blog\static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -353,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.freeze">
+  <component name="RunManager" selected="Python.app">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="priv-flask-indivisible" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -450,8 +341,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.freeze" />
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.freeze" />
         <item itemvalue="Python.configuration" />
         <item itemvalue="Python.static" />
       </list>
@@ -473,6 +364,7 @@
       <workItem from="1567082108823" duration="5032000" />
       <workItem from="1567100327478" duration="4815000" />
       <workItem from="1567268019899" duration="339000" />
+      <workItem from="1567689343399" duration="487000" />
     </task>
     <task id="LOCAL-00001" summary="first upload">
       <created>1567013322606</created>
@@ -597,12 +489,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20281000" />
+    <option name="totallyTimeSpent" value="20768000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -868,13 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/app/templates/includes/section-about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.conda/envs/portfolio/Lib/site-packages/flask/blueprints.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
@@ -948,6 +833,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/blog/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/blog/templates/headers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -959,6 +858,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/blog/templates/javascripts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -982,31 +888,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/blog/templates/javascripts.html">
+    <entry file="file://$PROJECT_DIR$/portfolio/app/templates/includes/section-about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/blog/templates/headers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/blog/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="153">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
           <folding>
             <element signature="e#27#36#0" expanded="true" />
           </folding>
