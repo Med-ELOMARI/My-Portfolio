@@ -7,6 +7,8 @@
           <resourceRoots>
             <path value="file://$PROJECT_DIR$/portfolio/blog/static/assets" />
             <path value="file://$PROJECT_DIR$/portfolio/app/static" />
+            <path value="file://$PROJECT_DIR$/portfolio/blog/static" />
+            <path value="file://$PROJECT_DIR$/portfolio/intro/static" />
           </resourceRoots>
         </entryData>
       </entry>

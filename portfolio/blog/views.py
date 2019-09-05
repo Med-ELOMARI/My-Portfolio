@@ -11,30 +11,23 @@ from flask import render_template, Blueprint
 from werkzeug.exceptions import abort
 
 blog_blueprint = Blueprint("blog_blueprint", __name__, static_folder='static',
-                           template_folder="templates",url_prefix="/blog")
+                           template_folder="templates", url_prefix="/blog")
 
 
-# # blog_blueprint main route + generic routing
-# @blog_blueprint.route('/')
-# def single():
-#     try:
-#         # try to match the pages defined in -> themes/phantom/pages/
-#         return render_template('single.html',
-#                                # content=render_template('pages/' + path)
-#                                )
-#     except:
-#         abort(404)
+# blog_blueprint main route + generic routing
+@blog_blueprint.route('/single')
+def single():
+    return render_template('single.html')
+
 
 # blog_blueprint main route + generic routing
 @blog_blueprint.route('/', defaults={'path': 'index.html'})
 @blog_blueprint.route('/<path>')
 def index(path):
     try:
-        # try to match the pages defined in -> themes/phantom/pages/
-        return render_template('index.html',
-                               # content=render_template('pages/' + path)
-                               )
+        return render_template('index.html', content=render_template('single.html'))
     except:
+
         abort(404)
 
 

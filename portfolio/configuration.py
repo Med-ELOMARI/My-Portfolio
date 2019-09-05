@@ -8,7 +8,7 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 
 # Only cfg is here ..
 class AppConfig(object):
-    THEME = 'phantom'
+    THEME = 'Personal'
 
     STATIC = 'static'
     DATE_FORMAT = '%Y-%m-%d'
@@ -38,7 +38,7 @@ class ProductionConfig(Config):
 
 
 class DevelopmentConfig(Config):
-    APP = 'app'
+    APP = 'intro'
     APP_IMG_FOLDER = os.path.join(APP, 'static', 'images')
 
     # keys for dev [ http://localhost ]
