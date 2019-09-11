@@ -1,6 +1,6 @@
 from flask import Flask
 
-from portfolio.intro.data import Data
+from portfolio.data import Data
 from portfolio.intro.views import portfolio_blueprint
 from portfolio.blog.views import blog_blueprint
 
