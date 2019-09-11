@@ -198,7 +198,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.freeze">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/My-Portfolio/portfolio/build/index.html">
+      <method v="2" />
+    </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="priv-flask-indivisible" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,9 +295,11 @@
       <item itemvalue="Python.app" />
       <item itemvalue="Python.freeze" />
       <item itemvalue="Python.configuration" />
+      <item itemvalue="JavaScript Debug.index.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Python.freeze" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.configuration" />

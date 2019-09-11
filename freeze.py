@@ -10,9 +10,8 @@ freezer = Freezer(app)
 @freezer.register_generator
 def index():
     # fixed the index not found by the freezer
-    yield 'portfolio_blueprint.index', {}
-    yield 'blog_blueprint.index', {}
-
+    yield "portfolio_blueprint.index", {}
+    yield "blog_blueprint.index", {}
 
 
 if __name__ == "__main__":
