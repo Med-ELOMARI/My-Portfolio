@@ -1,7 +1,7 @@
 from flask import Flask
 
-from portfolio.app.data import Data
-from portfolio.app.views import portfolio_blueprint
+from portfolio.intro.data import Data
+from portfolio.intro.views import portfolio_blueprint
 from portfolio.blog.views import blog_blueprint
 
 app = Flask(__name__, static_url_path='')
