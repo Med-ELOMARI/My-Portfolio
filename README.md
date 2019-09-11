@@ -5,5 +5,5 @@
  A place where i will share my projects and tutorials about different technologies
  
  links :
-  - [medelomari.ml](medelomari.ml)
-  - [elomari.ml](elomari.ml)
+  - [medelomari.ml](https://medelomari.ml)
+  - [elomari.ml](https://elomari.ml/)
