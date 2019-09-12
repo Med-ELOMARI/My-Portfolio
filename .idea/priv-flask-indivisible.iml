@@ -4,13 +4,14 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.6 (My-Portfolio)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jquery" level="application" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
     <option name="TEMPLATE_FOLDERS">
       <list>
-        <option value="$MODULE_DIR$/portfolio/app/templates" />
         <option value="$MODULE_DIR$/portfolio/blog/templates" />
+        <option value="$MODULE_DIR$/portfolio/intro/templates" />
       </list>
     </option>
   </component>
