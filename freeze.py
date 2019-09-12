@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 
-from flask_frozen import Freezer
+from flask_frozen import Freezer, Page
 
 from portfolio import app
 
