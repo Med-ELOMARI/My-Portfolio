@@ -1,88 +1,108 @@
+<head>
+    <title>{{ data.seo_title }}</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <meta name="description" content="{{ data.seo_desc }}"/>
+    <meta name="keywords" content="{{ data.seo_keys }}"/>
+    <link rel="stylesheet" href="static/assets/css/main.css"/>
+    <noscript>
+        <link rel="stylesheet" href="static/assets/css/noscript.css"/>
+    </noscript>
+    {##}
+    {#        <!-- Latest compiled and minified CSS -->#}
+    {#        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" >#}
+    {##}
+    {#        <!-- jQuery library -->#}
+    {#        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" ></script >#}
+    {##}
+    {#        <!-- Popper JS -->#}
+    {#        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" ></script >#}
+    {##}
+    {#        <!-- Latest compiled JavaScript -->#}
+    {#        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" ></script >#}
 
-    <head>
-        <title>{{ data.seo_title }}</title>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-        <meta name="description" content="{{ data.seo_desc }}" />
-        <meta name="keywords" content="{{ data.seo_keys }}" />
-            <link rel="stylesheet" href="static/assets/css/main.css" />
-		<noscript>
-            <link rel="stylesheet" href="static/assets/css/noscript.css" />
-        </noscript>
+    <!-- Fav icons -->
+    <link rel="shortcut icon" type="image/x-icon" href="static/assets/favicons/favicon-196x196.png" sizes="196x196"/>
+    <link rel="shortcut icon" type="image/x-icon" href="static/assets/favicons/favicon-160x160.png" sizes="160x160"/>
+    <link rel="shortcut icon" type="image/x-icon" href="static/assets/favicons/favicon-96x96.png" sizes="96x96"/>
+    <link rel="shortcut icon" type="image/x-icon" href="static/assets/favicons/favicon-16x16.png" sizes="16x16"/>
+    <link rel="shortcut icon" type="image/x-icon" href="static/assets/favicons/favicon-32x32.png" sizes="32x32"/>
+    <!-- End Fav icons -->
+{#    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146840752-1"></script>#}
+{#    <script>#}
+{#        window.dataLayer = window.dataLayer || [];#}
 {##}
-{#        <!-- Latest compiled and minified CSS -->#}
-{#        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" >#}
+{#        function gtag() {#}
+{#            dataLayer.push(arguments);#}
+{#        }#}
 {##}
-{#        <!-- jQuery library -->#}
-{#        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" ></script >#}
+{#        gtag('js', new Date());#}
 {##}
-{#        <!-- Popper JS -->#}
-{#        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" ></script >#}
+{#        gtag('config', 'UA-146840752-1');#}
+{#    </script>#}
 {##}
-{#        <!-- Latest compiled JavaScript -->#}
-{#        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" ></script >#}
+{#    <!-- Start of Async Drift Code -->#}
+{#    <script>#}
+{#        "use strict";#}
+{##}
+{#        !function () {#}
+{#            var t = window.driftt = window.drift = window.driftt || [];#}
+{#            if (!t.init) {#}
+{#                if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));#}
+{#                t.invoked = !0, t.methods = ["identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on"],#}
+{#                    t.factory = function (e) {#}
+{#                        return function () {#}
+{#                            var n = Array.prototype.slice.call(arguments);#}
+{#                            return n.unshift(e), t.push(n), t;#}
+{#                        };#}
+{#                    }, t.methods.forEach(function (e) {#}
+{#                    t[e] = t.factory(e);#}
+{#                }), t.load = function (t) {#}
+{#                    var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");#}
+{#                    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";#}
+{#                    var i = document.getElementsByTagName("script")[0];#}
+{#                    i.parentNode.insertBefore(o, i);#}
+{#                };#}
+{#            }#}
+{#        }();#}
+{#        drift.SNIPPET_VERSION = '0.3.1';#}
+{#        drift.load('mi742y8pbmcv');#}
+{#    </script>#}
+{#    <!-- End of Async Drift Code -->#}
+{#    <!-- Hotjar Tracking Code for elomari.ml -->#}
+{#    <script>#}
+{#        (function (h, o, t, j, a, r) {#}
+{#            h.hj = h.hj || function () {#}
+{#                (h.hj.q = h.hj.q || []).push(arguments)#}
+{#            };#}
+{#            h._hjSettings = {hjid: 1481651, hjsv: 6};#}
+{#            a = o.getElementsByTagName('head')[0];#}
+{#            r = o.createElement('script');#}
+{#            r.async = 1;#}
+{#            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;#}
+{#            a.appendChild(r);#}
+{#        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');#}
+{#    </script>#}
+{##}
+{#    <!-- Begin Inspectlet Asynchronous Code -->#}
+{#    <script type="text/javascript">#}
+{#        (function () {#}
+{#            window.__insp = window.__insp || [];#}
+{#            __insp.push(['wid', 972769095]);#}
+{#            var ldinsp = function () {#}
+{#                if (typeof window.__inspld != "undefined") return;#}
+{#                window.__inspld = 1;#}
+{#                var insp = document.createElement('script');#}
+{#                insp.type = 'text/javascript';#}
+{#                insp.async = true;#}
+{#                insp.id = "inspsync";#}
+{#                insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js?wid=972769095&r=' + Math.floor(new Date().getTime() / 3600000);#}
+{#                var x = document.getElementsByTagName('script')[0];#}
+{#                x.parentNode.insertBefore(insp, x);#}
+{#            };#}
+{#            setTimeout(ldinsp, 0);#}
+{#        })();#}
+{#    </script>#}
+{#    <!-- End Inspectlet Asynchronous Code -->#}
 
-        <!-- Fav icons -->
-        <link rel="shortcut icon" type="image/x-icon" href="static/assets/favicons/favicon-196x196.png" sizes="196x196" />
-        <link rel="shortcut icon" type="image/x-icon" href="static/assets/favicons/favicon-160x160.png" sizes="160x160" />
-        <link rel="shortcut icon" type="image/x-icon" href="static/assets/favicons/favicon-96x96.png"   sizes="96x96"   />
-        <link rel="shortcut icon" type="image/x-icon" href="static/assets/favicons/favicon-16x16.png"   sizes="16x16"   />
-        <link rel="shortcut icon" type="image/x-icon" href="static/assets/favicons/favicon-32x32.png"   sizes="32x32"   />
-        <!-- End Fav icons -->
-	    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146840752-1" ></script >
-<script >
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-
-    gtag('js', new Date());
-
-    gtag('config', 'UA-146840752-1');
-</script >
-
-        <!-- Start of Async Drift Code -->
-        <script >
-            "use strict";
-
-            !function () {
-                var t = window.driftt = window.drift = window.driftt || [];
-                if (!t.init) {
-                    if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
-                    t.invoked = !0, t.methods = ["identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on"],
-                        t.factory = function (e) {
-                            return function () {
-                                var n = Array.prototype.slice.call(arguments);
-                                return n.unshift(e), t.push(n), t;
-                            };
-                        }, t.methods.forEach(function (e) {
-                        t[e] = t.factory(e);
-                    }), t.load = function (t) {
-                        var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
-                        o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
-                        var i = document.getElementsByTagName("script")[0];
-                        i.parentNode.insertBefore(o, i);
-                    };
-                }
-            }();
-            drift.SNIPPET_VERSION = '0.3.1';
-            drift.load('mi742y8pbmcv');
-        </script >
-        <!-- End of Async Drift Code -->
-        <!-- Hotjar Tracking Code for elomari.ml -->
-        <script >
-            (function (h, o, t, j, a, r) {
-                h.hj = h.hj || function () {
-                    (h.hj.q = h.hj.q || []).push(arguments)
-                };
-                h._hjSettings = {hjid: 1481651, hjsv: 6};
-                a = o.getElementsByTagName('head')[0];
-                r = o.createElement('script');
-                r.async = 1;
-                r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
-                a.appendChild(r);
-            })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
-        </script >
-
-    </head>
+</head>
