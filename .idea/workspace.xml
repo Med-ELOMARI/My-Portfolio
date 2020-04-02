@@ -2,146 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09e718e0-f543-4277-bf6d-e42ab56ebcea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/My-Portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/intro/templates/pages/all-projects_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/intro/templates/pages/all-projects_backup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/priv-flask-indivisible.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webResources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/css/fontawesome-all.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/js/breakpoints.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/js/browser.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/js/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/base/_page.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/base/_reset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/base/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_actions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_author.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_blurb.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_box.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_form.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_icon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_mini-post.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_post.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_posts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_row.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_section.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/components/_table.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/layout/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/layout/_header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/layout/_intro.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/layout/_main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/layout/_menu.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/layout/_sidebar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/layout/_wrapper.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/libs/_breakpoints.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/libs/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/libs/_html-grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/libs/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/libs/_vars.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/libs/_vendor.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/sass/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/avatar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/pic01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/pic02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/pic03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/pic04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/pic05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/pic06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/pic07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/pic08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/pic09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/pic10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/pic11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/blog/static/images/pic12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/css/fontawesome-all.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/css/noscript.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/js/breakpoints.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/js/browser.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/js/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/base/_page.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/base/_reset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/base/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/components/_actions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/components/_box.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/components/_button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/components/_form.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/components/_icon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/components/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/components/_image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/components/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/components/_section.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/components/_table.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/layout/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/layout/_panel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/layout/_wrapper.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/libs/_breakpoints.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/libs/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/libs/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/libs/_vars.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/libs/_vendor.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/sass/noscript.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/images/pic01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/images/pic02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/images/pic03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/images/pic05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/build/static/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/intro/static/images/p31.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/intro/templates/includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/intro/templates/includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/intro/templates/includes/section-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/intro/templates/includes/section-home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/intro/templates/pages/all-projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/intro/templates/pages/all-projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,18 +79,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585795756694</updated>
-      <workItem from="1585795759929" duration="6172000" />
+      <workItem from="1585795759929" duration="6490000" />
     </task>
+    <task id="LOCAL-00001" summary=":fire: Major Updates">
+      <created>1585802923052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585802923053</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":camera_flash: Added GPlay Project Image">
+      <created>1585803080190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585803080190</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":fire: Major Updates" />
+    <MESSAGE value=":camera_flash: Added GPlay Project Image" />
+    <option name="LAST_COMMIT_MESSAGE" value=":camera_flash: Added GPlay Project Image" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1585802922052">
+    <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1585803079596">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585802922052" />
+    <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585803079596" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585802901373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -249,6 +131,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585795809459" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1585803083415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585803083415" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585795761411">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
