@@ -80,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585795756694</updated>
       <workItem from="1585795759929" duration="6490000" />
+      <workItem from="1585861047137" duration="1786000" />
     </task>
     <task id="LOCAL-00001" summary=":fire: Major Updates">
       <created>1585802923052</created>
@@ -107,10 +108,10 @@
     <option name="LAST_COMMIT_MESSAGE" value=":camera_flash: Added GPlay Project Image" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1585803079596">
+    <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1585803168097">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585803079596" />
+    <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585803168097" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585802901373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -131,14 +132,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585795809459" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1585803083415">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1585803169800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585803083415" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585795761411">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585803169800" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585861047392">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585795761411" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585861047392" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/My_Portfolio$app.coverage" NAME="app Coverage Results" MODIFIED="1585797107781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
