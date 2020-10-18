@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09e718e0-f543-4277-bf6d-e42ab56ebcea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/intro/templates/includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/intro/templates/includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,6 @@
   <component name="ProjectId" id="1ZxzubaRwyBebRSAv4JPlF2lt4k" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -81,6 +79,7 @@
       <updated>1585795756694</updated>
       <workItem from="1585795759929" duration="6490000" />
       <workItem from="1585861047137" duration="1786000" />
+      <workItem from="1603049928595" duration="777000" />
     </task>
     <task id="LOCAL-00001" summary=":fire: Major Updates">
       <created>1585802923052</created>
@@ -100,7 +99,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":fire: Major Updates" />
