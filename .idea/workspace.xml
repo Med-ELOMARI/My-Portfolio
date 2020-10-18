@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="09e718e0-f543-4277-bf6d-e42ab56ebcea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="09e718e0-f543-4277-bf6d-e42ab56ebcea" name="Default Changelist" comment=":camera_flash: From Flask to Static html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,12 +45,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/intro/templates/pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Venus\Documents\GitHub\My-Portfolio" />
       <recent name="C:\Users\Lynx\PycharmProjects\My-Portfolio\portfolio\intro\templates\pages" />
     </key>
   </component>
@@ -79,7 +97,7 @@
       <updated>1585795756694</updated>
       <workItem from="1585795759929" duration="6490000" />
       <workItem from="1585861047137" duration="1786000" />
-      <workItem from="1603049928595" duration="777000" />
+      <workItem from="1603049928595" duration="1517000" />
     </task>
     <task id="LOCAL-00001" summary=":fire: Major Updates">
       <created>1585802923052</created>
@@ -95,16 +113,35 @@
       <option name="project" value="LOCAL" />
       <updated>1585803080190</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=":camera_flash: From Flask to Static html">
+      <created>1603057645215</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603057645216</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":fire: Major Updates" />
     <MESSAGE value=":camera_flash: Added GPlay Project Image" />
-    <option name="LAST_COMMIT_MESSAGE" value=":camera_flash: Added GPlay Project Image" />
+    <MESSAGE value=":camera_flash: From Flask to Static html" />
+    <option name="LAST_COMMIT_MESSAGE" value=":camera_flash: From Flask to Static html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1585803168097">
