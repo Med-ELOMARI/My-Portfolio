@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="09e718e0-f543-4277-bf6d-e42ab56ebcea" name="Default Changelist" comment=":camera_flash: From Flask to Static html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +101,8 @@
       <workItem from="1585795759929" duration="6490000" />
       <workItem from="1585861047137" duration="1786000" />
       <workItem from="1603049928595" duration="1979000" />
+      <workItem from="1603138617612" duration="600000" />
+      <workItem from="1603200046300" duration="271000" />
     </task>
     <task id="LOCAL-00001" summary=":fire: Major Updates">
       <created>1585802923052</created>
@@ -145,6 +148,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":fire: Major Updates" />
