@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09e718e0-f543-4277-bf6d-e42ab56ebcea" name="Default Changelist" comment=":camera_flash: From Flask to Static html">
+    <list default="true" id="09e718e0-f543-4277-bf6d-e42ab56ebcea" name="Default Changelist" comment="Added meta data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -102,7 +102,8 @@
       <workItem from="1585861047137" duration="1786000" />
       <workItem from="1603049928595" duration="1979000" />
       <workItem from="1603138617612" duration="600000" />
-      <workItem from="1603200046300" duration="271000" />
+      <workItem from="1603200046300" duration="929000" />
+      <workItem from="1603531919876" duration="1074000" />
     </task>
     <task id="LOCAL-00001" summary=":fire: Major Updates">
       <created>1585802923052</created>
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603061584624</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added meta data">
+      <created>1603200335716</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603200335717</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,13 +162,14 @@
     <MESSAGE value=":fire: Major Updates" />
     <MESSAGE value=":camera_flash: Added GPlay Project Image" />
     <MESSAGE value=":camera_flash: From Flask to Static html" />
-    <option name="LAST_COMMIT_MESSAGE" value=":camera_flash: From Flask to Static html" />
+    <MESSAGE value="Added meta data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added meta data" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603061598328">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603200375331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603061598328" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603200375331" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/My_Portfolio$app.coverage" NAME="app Coverage Results" MODIFIED="1585797107781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
